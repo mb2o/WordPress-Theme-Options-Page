@@ -5,7 +5,7 @@ This is a helpful WordPress options page, built using the Settings API, availabl
 <p>
 To use it, simply copy this script into either your functions.php file, or a sub-file. If you choose the latter, just make sure that you include it from functions.php. 
 </p>
-<img src="http://www.screencast.com/users/JeffreyWay/folders/Jing/media/d4bb9b2a-528e-4c77-bad2-134735b4bbc9" alt="Snapshot" />
+<img src="http://content.screencast.com/users/JeffreyWay/folders/Jing/media/d4bb9b2a-528e-4c77-bad2-134735b4bbc9/00000004.png" alt="Snapshot" />
 
 <h3> Usage </h3>
  <p>
